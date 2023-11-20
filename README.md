@@ -16,7 +16,7 @@
 
 - How to reach me **gajulavenkatsai89@gmail.com**
 
-- Know about my experiences [https://drive.google.com/file/d/1Da2FoWuKNOjVMmGbr2kSJjo8ZeDZPK_I/view?pli=1](https://drive.google.com/file/d/1ra0XLQ3EJWwrssCOxLgzwjsOG2qOKOq5/view?usp=sharing)
+- Know about my experiences [https://drive.google.com/file/d/1Da2FoWuKNOjVMmGbr2kSJjo8ZeDZPK_I/view?pli=1](https://drive.google.com/file/d/1DJVCMQquMQxHF8PIAWeDjQvffHIBx4Lh/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
