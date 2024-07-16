@@ -1,22 +1,24 @@
 ![logo](https://github.com/gajulavenkatsai89/gajulavenkatsai89/blob/main/Background.png)
 <h1 align="center">Hi 👋, I'm Gajula Venkat Sai</h1>
-<h3 align="center">Final Year Data Science Student</h3>
+<h3 align="center">Recently graduated Data Science Student, Christ(Deemed to be University) Bangalore</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gajulavenkatsai89&label=Profile%20views&color=0e75b6&style=flat" alt="gajulavenkatsai89" /> </p>
 
-- Project-1 **Automotive Review Based Sentiment Analysis**
+- Project-1 **Voice-Controlled AI Platform for Company Information and Contextual Insights**
 
-- Project-2 **Spam Detection using Machine Learning**
+- Project-2 **Automotive Review Based Sentiment Analysis**
 
-- Project-3 **Green Vision (Harnessing Deep Learning for Plant Leaf Disease Detection)**
+- Project-3 **Spam Detection using Machine Learning**
+
+- Project-4 **Green Vision (Harnessing Deep Learning for Plant Leaf Disease Detection)**
 
 - All of my projects are available at [https://gajulavenkatsai89.github.io/Portfolio_/](https://gajulavenkatsai89.github.io/Portfolio_/)
 
-- Skills **Python, SQL, Natural Language Processing (NLP), Web Analytics, Machine Learning, Web Scraping, Data Visualization, Power BI.**
+- Skills **Python, SQL, Natural Language Processing (NLP), Machine Learning, Deep Learning, Web Analytics, Web Scraping, Data Visualization, Power BI, Tableau.**
 
 - How to reach me **gajulavenkatsai89@gmail.com**
 
-- Know about my experiences [https://drive.google.com/file/d/1Da2FoWuKNOjVMmGbr2kSJjo8ZeDZPK_I/view?pli=1](https://drive.google.com/file/d/1DJVCMQquMQxHF8PIAWeDjQvffHIBx4Lh/view?usp=sharing)
+- Know about my experiences [https://drive.google.com/file/d/1xnOiUPILOYClFIWaky46k_5EL2dXguWz/view?usp=sharing](https://drive.google.com/file/d/1xnOiUPILOYClFIWaky46k_5EL2dXguWz/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
