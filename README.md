@@ -1,6 +1,6 @@
 ![logo](https://github.com/gajulavenkatsai89/gajulavenkatsai89/blob/main/Background.png)
 <h1 align="center">Hi 👋, I'm Gajula Venkat Sai</h1>
-<h3 align="center">Recently graduated Data Science Student, Christ(Deemed to be University) Bangalore</h3>
+<h3 align="center">Recent graduate with a Master's in Data Science from Christ (Deemed to be University), Bangalore.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gajulavenkatsai89&label=Profile%20views&color=0e75b6&style=flat" alt="gajulavenkatsai89" /> </p>
 
