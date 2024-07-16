@@ -12,7 +12,7 @@
 
 - Project-4 **Green Vision (Harnessing Deep Learning for Plant Leaf Disease Detection)**
 
-- All of my projects are available at [https://gajulavenkatsai89.github.io/Portfolio_/](https://gajulavenkatsai89.github.io/Portfolio_/)
+- All of my projects are available at [https://gajulavenkatsai89.github.io/Portfolio_/](https://gajulavenkatsai89.github.io/Portfolio/)
 
 - Skills **Python, SQL, Natural Language Processing (NLP), Machine Learning, Deep Learning, Web Analytics, Web Scraping, Data Visualization, Power BI, Tableau.**
 
