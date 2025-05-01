@@ -1,6 +1,6 @@
 ![logo](https://github.com/gajulavenkatsai89/gajulavenkatsai89/blob/main/Background.png)
 <h1 align="center">Hi 👋, I'm Gajula Venkat Sai</h1>
-<h3 align="center">Recent graduate with a Master's in Data Science from Christ (Deemed to be University), Bangalore.</h3>
+<h3 align="center">Recent graduate with a Bachelor's in Maths, Stats, and Computer Science from Loyola Academy, Hyderabad</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gajulavenkatsai89&label=Profile%20views&color=0e75b6&style=flat" alt="gajulavenkatsai89" /> </p>
 
@@ -12,13 +12,13 @@
 
 - Project-4 **Green Vision (Harnessing Deep Learning for Plant Leaf Disease Detection)**
 
-- All of my projects are available at [https://gajulavenkatsai89.github.io/Portfolio_/](https://gajulavenkatsai89.github.io/Portfolio/)
+- All of my projects are available at [https://gajulavenkatsai89.github.io/Portfolio_/]()
 
 - Skills **Python, SQL, Natural Language Processing (NLP), Machine Learning, Deep Learning, Web Analytics, Web Scraping, Data Visualization, Power BI, Tableau.**
 
 - How to reach me **gajulavenkatsai89@gmail.com**
 
-- Know about my experiences [https://drive.google.com/file/d/1xnOiUPILOYClFIWaky46k_5EL2dXguWz/view?usp=sharing](https://drive.google.com/file/d/1xnOiUPILOYClFIWaky46k_5EL2dXguWz/view?usp=sharing)
+- Know about my experiences [https://drive.google.com/file/d/1xnOiUPILOYClFIWaky46k_5EL2dXguWz/view?usp=sharing]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
